@@ -1,13 +1,13 @@
-# 🧬 JML Dynamic Group Automation Lab (Joiner • Mover • Leaver)
+# 🧬 JML Identity Lifecycle Management Project (Joiner • Mover • Leaver)
 
 **Platform:** Microsoft Entra ID  
-**Focus:** Identity Lifecycle Automation, Dynamic Groups, Enterprise App Access, Conditional Access
+**Focus:** Identity Lifecycle Management, Automation, ##Dynamic Groups, Enterprise App Access, Conditional Access##
 
 💻
 
 ## 📘 Project Overview
 
-This project showcases an implemented Joiner, Mover, Leaver (JML) lifecycle.
+This project showcases an implemented Joiner, Mover, Leaver (JML) lifecycle. 
 
 
 In this project, I implemented a Joiner–Mover–Leaver (JML) model where **user attributes** automatically controlled:
