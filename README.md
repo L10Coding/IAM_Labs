@@ -19,6 +19,6 @@ In this project, I implemented a Joiner–Mover–Leaver (JML) model where **use
 
 All behavior was validated using group membership, jwt.ms token inspection, and sign-in logs.
 <img width="468" height="293" alt="image" src="https://github.com/user-attachments/assets/e334982b-e4c0-494b-9b08-1399d7ef6d93" />
-<img width="368" height="193" alt="image" src="https://github.com/user-attachments/assets/e334982b-e4c0-494b-9b08-1399d7ef6d93" />
+<img width="368" height="193" alt="image" src="User-Brees.jpg" />
 
 
