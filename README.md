@@ -1,4 +1,4 @@
-# 🧬 JML Identity Lifecycle Management Project (Joiner • Mover • Leaver)
+# 🧬 JML Identity Lifecycle Management Project (Joiner • Mover • Leaver.  )
 
 **Platform:** Microsoft Entra ID  
 **Focus:** Identity Lifecycle Management, Automation, **Dynamic Groups, Enterprise App Access, Conditional Access**
